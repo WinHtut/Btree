@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ncc/CLionProjects/oneBtreeGF/main.cpp
+iostream
+/Users/ncc/CLionProjects/oneBtreeGF/iostream
+

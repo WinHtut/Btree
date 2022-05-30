@@ -1,0 +1,3 @@
+/Users/ncc/CLionProjects/oneBtreeGF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ncc/CLionProjects/oneBtreeGF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ncc/CLionProjects/oneBtreeGF/cmake-build-debug/CMakeFiles/oneBtreeGF.dir
